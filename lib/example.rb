@@ -1,15 +1,15 @@
 phrase = "Hello World!"
 
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
+# puts phrase
 
 def say_hello_world_ten_times
   
@@ -27,4 +27,5 @@ def say_hello_world_ten_times
 
 end
 
+say_hello_world_ten_times
 
